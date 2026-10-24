@@ -3,3 +3,4 @@
 - your server name：my-test-server
 - username：daiadmin
 - password：server1006TeSt%
+- server IP address：192.168.1.60
